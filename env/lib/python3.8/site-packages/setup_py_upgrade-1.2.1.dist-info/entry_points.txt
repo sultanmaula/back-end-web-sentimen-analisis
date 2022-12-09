@@ -1,0 +1,3 @@
+[console_scripts]
+setup-py-upgrade = setup_py_upgrade:main
+
